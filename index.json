@@ -482,6 +482,7 @@
       "jdk@amazon-corretto": {
         "1.11.0-11.9.1": "zip+https://corretto.aws/downloads/resources/11.0.11.9.1/amazon-corretto-11.0.11.9.1-windows-x86-jdk.zip",
         "1.11.0-10.9.1": "zip+https://corretto.aws/downloads/resources/11.0.10.9.1/amazon-corretto-11.0.10.9.1-windows-x86-jdk.zip",	
+		"1.8.362-08.1": "zip+https://corretto.aws/downloads/resources/8.362.08.1/amazon-corretto-8.362.08.1-windows-x86-jdk.zip",
         "1.8.352-08.1": "zip+https://corretto.aws/downloads/resources/8.352.08.1/amazon-corretto-8.352.08.1-windows-x86-jdk.zip",
         "1.8.292-10.1": "zip+https://corretto.aws/downloads/resources/8.292.10.1/amazon-corretto-8.292.10.1-windows-x86-jdk.zip",
         "1.8.282-08.1": "zip+https://corretto.aws/downloads/resources/8.282.08.1/amazon-corretto-8.282.08.1-windows-x86-jdk.zip",
