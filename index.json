@@ -296,7 +296,7 @@
         "1.11.0-6.10.1": "zip+https://corretto.aws/downloads/resources/11.0.6.10.1/amazon-corretto-11.0.6.10.1-1-windows-x64-jdk.zip",
         "1.11.0-5.10.1": "zip+https://d3pxv6yz143wms.cloudfront.net/11.0.5.10.1/amazon-corretto-11.0.5.10.1-windows-x64.zip",
         "1.11.0-4.11.1": "zip+https://d3pxv6yz143wms.cloudfront.net/11.0.4.11.1/amazon-corretto-11.0.4.11.1-windows-x64.zip",
-		"1.8.392-08.1": "zip+https://corretto.aws/downloads/resources/8.392.08.1/amazon-corretto-8.392.08.1-windows-x64-jdk.zip",
+		    "1.8.392-08.1": "zip+https://corretto.aws/downloads/resources/8.392.08.1/amazon-corretto-8.392.08.1-windows-x64-jdk.zip",
         "1.8.382-05.1": "zip+https://corretto.aws/downloads/resources/8.382.05.1/amazon-corretto-8.382.05.1-windows-x64-jdk.zip",
         "1.8.372-07.1": "zip+https://corretto.aws/downloads/resources/8.372.07.1/amazon-corretto-8.372.07.1-windows-x64-jdk.zip",
         "1.8.362-08.1": "zip+https://corretto.aws/downloads/resources/8.362.08.1/amazon-corretto-8.362.08.1-windows-x64-jdk.zip",
@@ -381,7 +381,7 @@
         "1.16.0": "zip+https://download.oracle.com/otn-pub/java/jdk/16.0.1+9/7147401fd7354114ac51ef3e1328291f/jdk-16.0.1_windows-x64_bin.zip"
       },
 	    "jre@amazon-corretto": {
-		"1.8.392-08.1": "zip+https://corretto.aws/downloads/resources/8.392.08.1/amazon-corretto-8.392.08.1-windows-x64-jre.zip",
+		    "1.8.392-08.1": "zip+https://corretto.aws/downloads/resources/8.392.08.1/amazon-corretto-8.392.08.1-windows-x64-jre.zip",
         "1.8.382-05.1": "zip+https://corretto.aws/downloads/resources/8.382.05.1/amazon-corretto-8.382.05.1-windows-x64-jre.zip",		  
         "1.8.372-07.1": "zip+https://corretto.aws/downloads/resources/8.372.07.1/amazon-corretto-8.372.07.1-windows-x64-jre.zip"	
 	    }
@@ -490,10 +490,10 @@
       "jdk@amazon-corretto": {
         "1.11.0-11.9.1": "zip+https://corretto.aws/downloads/resources/11.0.11.9.1/amazon-corretto-11.0.11.9.1-windows-x86-jdk.zip",
         "1.11.0-10.9.1": "zip+https://corretto.aws/downloads/resources/11.0.10.9.1/amazon-corretto-11.0.10.9.1-windows-x86-jdk.zip",
-		"1.8.392-08.1": "zip+https://corretto.aws/downloads/resources/8.392.08.1/amazon-corretto-8.392.08.1-windows-x86-jdk.zip",		
+		    "1.8.392-08.1": "zip+https://corretto.aws/downloads/resources/8.392.08.1/amazon-corretto-8.392.08.1-windows-x86-jdk.zip",		
         "1.8.382-05.1": "zip+https://corretto.aws/downloads/resources/8.382.05.1/amazon-corretto-8.382.05.1-windows-x86-jdk.zip",		
         "1.8.372-07.1": "zip+https://corretto.aws/downloads/resources/8.372.07.1/amazon-corretto-8.372.07.1-windows-x86-jdk.zip",		
-		"1.8.362-08.1": "zip+https://corretto.aws/downloads/resources/8.362.08.1/amazon-corretto-8.362.08.1-windows-x86-jdk.zip",
+		    "1.8.362-08.1": "zip+https://corretto.aws/downloads/resources/8.362.08.1/amazon-corretto-8.362.08.1-windows-x86-jdk.zip",
         "1.8.352-08.1": "zip+https://corretto.aws/downloads/resources/8.352.08.1/amazon-corretto-8.352.08.1-windows-x86-jdk.zip",
         "1.8.292-10.1": "zip+https://corretto.aws/downloads/resources/8.292.10.1/amazon-corretto-8.292.10.1-windows-x86-jdk.zip",
         "1.8.282-08.1": "zip+https://corretto.aws/downloads/resources/8.282.08.1/amazon-corretto-8.282.08.1-windows-x86-jdk.zip",
@@ -509,8 +509,8 @@
         "1.8.222-10.3": "zip+https://d3pxv6yz143wms.cloudfront.net/8.222.10.1/amazon-corretto-8.222.10.3-windows-x86-jdk.zip"
       },
 	  "jre@amazon-corretto": {
-		"1.8.392-08.1": "zip+https://corretto.aws/downloads/resources/8.392.08.1/amazon-corretto-8.392.08.1-windows-x86-jre.zip"
-		"1.8.382-05.1": "zip+https://corretto.aws/downloads/resources/8.382.05.1/amazon-corretto-8.382.05.1-windows-x86-jre.zip",	
+		  "1.8.392-08.1": "zip+https://corretto.aws/downloads/resources/8.392.08.1/amazon-corretto-8.392.08.1-windows-x86-jre.zip",
+		  "1.8.382-05.1": "zip+https://corretto.aws/downloads/resources/8.382.05.1/amazon-corretto-8.382.05.1-windows-x86-jre.zip",	
 	    "1.8.372-07.1": "zip+https://corretto.aws/downloads/resources/8.372.07.1/amazon-corretto-8.372.07.1-windows-x86-jre.zip"	
       }
     }
